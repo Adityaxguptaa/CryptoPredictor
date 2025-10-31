@@ -1121,10 +1121,6 @@ def main():
                     mime="application/pdf"
                 )
 
-def main():
-    st.title("Bitcoin Market Sentiment vs Trader Performance ML Analytics")
-    # ... lengthy app code with UI layout, tabs, plots, metrics, etc.
-
 if __name__ == "__main__":
     main()
 
